@@ -8,4 +8,4 @@ In the tasks completed as part of this tutorial, I learnt how to ingest streamin
 
 One major benefit of using these AWS services for log analysis, was that the entire analysis infrastructure was created with a serverless architecture. The system was created by integrating Amazon Kinesis Firehose, Amazon Kinesis Analytics, Amazon Elasticsearch Service. The architecture of the solution can be seen below, and the complete project description can be seen in the attached PDF.
 
-![Architecture]()
+![Architecture](https://github.com/karan7798z/Web-Log-Analysis-using-AWS/blob/master/Architecture.png?raw=true)
